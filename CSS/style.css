@@ -2,3 +2,11 @@ h1{
     text-align: center;
     color: blue;
 }
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 0 5px 10px black;
+    margin: auto;
+}
