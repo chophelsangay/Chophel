@@ -39,11 +39,9 @@ header {
    display: flex;
    gap:30px;
     list-style-type: none;
-    
+    color: white;
  }
 
-.nav ul li:hover{
-    text-decoration: underline;
-    color: rgba(0, 255, 255, 0.9);
-    
-  }
+header, h2{
+    color: white;
+}
