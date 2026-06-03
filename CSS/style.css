@@ -12,3 +12,9 @@ img{
     display: block;
     
 }
+
+footer{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
